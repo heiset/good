@@ -13,7 +13,7 @@ body {
     box-shadow: 0px 0px 10px 2px black;
 }
 
-.projects {
+.hw {
     background-color: white;
     color: black;
     box-shadow: 0px 0px 10px 2px black;
@@ -21,24 +21,24 @@ body {
     margin: 500px 50px 50px 50px;
 }
 
-.project {
+.hw {
     margin: 70px;
 }
 
-.project-content {
+.hw-content {
     display: inline-block;
     text-align: left;
     vertical-align: top;
     margin: 45px 50px 50px 50px;
 }
 
-.project-thumbnail {
+.hw-thumbnail {
     display: inline-block;
     height: 256px;
     border: 2px solid lightgray;
 }
 
-.project-content button {
+.hw-content button {
     font-family: "Montserrat";
     font-weight: 700;
     height: 50px;
@@ -51,7 +51,7 @@ body {
     box-shadow: 0px 2px 6px 0px #000000A0;
 }
 
-.project-content button:hover {
+.hw-content button:hover {
     color: black;
     border: 3px solid rgb(119, 176, 223);
     cursor: pointer;
